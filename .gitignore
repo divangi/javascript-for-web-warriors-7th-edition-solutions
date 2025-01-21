@@ -1,2 +1,5 @@
-# Mac os metadata files
+# Ignore Mac os metadata files
 .DS_store
+
+# Ignore extracted data files
+datafiles
